@@ -49,7 +49,7 @@ Install:
 }`
 
 ### Mango (config.conf)
-blur=1
+`blur=1
 blur_layer=1
 blur_optimized=1
 blur_params_num_passes=3
@@ -57,6 +57,6 @@ blur_params_radius=6
 blur_params_noise=0.02
 blur_params_contrast=1.0
 blur_params_brightness=1.0
-blur_params_saturation=1.2
+blur_params_saturation=1.2`
 
 ## License / MIT — see [LICENSE](LICENSE)
